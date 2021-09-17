@@ -1,7 +1,7 @@
 
 # Hi, I'm Igor Pedrosa 😁 
 
-#### Conhecimentos em HTML5, CSS3, PHP, Java, JavaScript, Estruturas MVC, MySQL.
+#### Conhecimentos em HTML5, CSS3, React JS, PHP, Java, JavaScript, Estruturas MVC, MySQL.
 
 #### Montando Portfólio no momento focado em FrontEnd 💻. <br><br>
 

@@ -3,7 +3,8 @@
 
 #### Conhecimentos em HTML5, CSS3, React JS, PHP, Java, JavaScript, Estruturas MVC, MySQL.
 
-#### Montando Portfólio no momento focado em FrontEnd 💻. <br><br>
+#### Atualmente realizando o bootcamp da [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) de Web Development Full Stack. <br><br>
+
 
 ## Contato: 
 
@@ -19,5 +20,6 @@
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 
 ![Spider-man gif](https://i.imgur.com/lfnpjaD.gif)

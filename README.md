@@ -1,7 +1,7 @@
-# Hi, I'm Igor Pedrosa 😁  <img align="right" width="258" height="276" src="https://i.imgur.com/5eSCYLE.jpg">
+# Hi, I'm Igor Pedrosa 😁
 
-#### Conhecimentos em HTML5, CSS3, React JS, PHP, Java, JavaScript, Estruturas MVC, MySQL.
-#### Atualmente realizando o bootcamp da [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) de Web Development Full Stack. <br><br>
+### Conhecimentos em HTML5, CSS3, JavaScript, Bootstrap, React JS, NodeJS, TypeScript, PHP, Java, Estruturas MVC, MySQL.
+### Atualmente realizando o bootcamp da [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) de Web Development Full Stack. <br><br>
 
 
 

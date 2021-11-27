@@ -1,9 +1,8 @@
-
-# Hi, I'm Igor Pedrosa 😁 
+# Hi, I'm Igor Pedrosa 😁  <img align="right" width="258" height="276" src="https://i.imgur.com/5eSCYLE.jpg">
 
 #### Conhecimentos em HTML5, CSS3, React JS, PHP, Java, JavaScript, Estruturas MVC, MySQL.
-
 #### Atualmente realizando o bootcamp da [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) de Web Development Full Stack. <br><br>
+
 
 
 ## Contato: 
@@ -11,15 +10,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-pedrosa-b12769188/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilap1036@gmail.com)
 
-### Linguagens e tecnologias presentes no repositório até o momento: 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+<br/>
 
 
-![Spider-man gif](https://i.imgur.com/lfnpjaD.gif)
+## Tecnologias presentes no repositório até o momento: 
+
+<p align="center">
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/lfnpjaD.gif">
+</p>

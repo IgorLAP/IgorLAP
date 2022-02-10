@@ -1,8 +1,8 @@
 # Hello, I'm Igor Pedrosa. Full Stack Web Developer 😁
 <br/>
 
-- Conhecimentos em HTML5, CSS3, JavaScript, Bootstrap 5, React JS, NodeJS, Angular, TypeScript e banco de dados SQL. Já trabalhei com PHP, Java, Estruturas MVC.
-> Knowledge in HTML5, CSS3, JavaScript, Bootstrap 5, React JS, NodeJS, Angular, TypeScript and SQL database. Already worked with PHP, Java, MVC architecture and POO.
+- Conhecimentos em HTML5, CSS3, JavaScript, Bootstrap 5, React JS, NodeJS, Angular, TypeScript, banco de dados SQL e NoSQL, Estrutura MVC e POO. Já trabalhei com PHP and Java.
+> Knowledge in HTML5, CSS3, JavaScript, Bootstrap 5, React JS, NodeJS, Angular, TypeScript, SQL and NoSQL database, MVC architecture and POO. Already worked with PHP and Java.
 <br/>
 
 - Técnino em Informática para Internet - IFPE Campus Jaboatão dos Guararapes

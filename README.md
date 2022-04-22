@@ -9,8 +9,12 @@
 > Internet Computer Technician - IFPE Jaboatao dos Guararapes Campus
 <br/>
 
-- Atualmente realizando o bootcamp da [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) de Web Development Full Stack.
-> Doing: [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) Bootcamp focused on FullStack Web Development
+- Desenvolvedor Fullstack no bootcamp da [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) | [Certificado](https://www.linkedin.com/posts/igor-pedrosa_soulcoder-soulcodeacademy-tntenergydrink-activity-6912188703926841344-m2ms?utm_source=linkedin_share&utm_medium=member_desktop_web)
+> FullStack Web Developer by [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) | [Certificate](https://www.linkedin.com/posts/igor-pedrosa_soulcoder-soulcodeacademy-tntenergydrink-activity-6912188703926841344-m2ms?utm_source=linkedin_share&utm_medium=member_desktop_web)
+<br/>
+
+- Atualmente: Aprimorando conhecimentos em React JS, Node JS e TypeScript
+> Doing: Mastering the knowledge in React JS, Node JS and TypeScript
 <br/>
 
 ### Contato:

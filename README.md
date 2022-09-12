@@ -9,8 +9,8 @@
 > FullStack Web Developer by [SoulCode Academy](https://soulcodeacademy.org/curso-web-full-stack.html) | [Certificate](https://www.linkedin.com/posts/igor-pedrosa_soulcoder-soulcodeacademy-tntenergydrink-activity-6912188703926841344-m2ms?utm_source=linkedin_share&utm_medium=member_desktop_web)
 <br/>
 
-- Atualmente: Aprimorando conhecimentos em React JS, Node JS e TypeScript
-> Doing: Mastering knowledge in React JS, Node JS and TypeScript
+- Atualmente: Aprimorando conhecimentos em Next.js e Testes Unitários e de Integração
+> Doing: Mastering knowledge in Next.js and Unit/Integration Tests
 <br/>
 
 ### Contato:

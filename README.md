@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello, my name is Igor Pedrosa 😁 <br />
-  Internet Computer Technician - IFPE Jaboatão dos Guararapes Campus 🧑‍🎓<br />
+  Internet Computer Technician - IFPE Jaboatão dos Guararapes 🧑‍🎓<br />
   Currently i'm working at <strong>Justa</strong> as <strong>FrontEnd Developer</strong>💻🎨 
 </p>
 

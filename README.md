@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills:  
+  🦄 Skills:  <br/>
 
   <img width="25" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="25" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  💌 Contact-me:  
+  💌 Contact-me:  <br/>
   <a href="mailto:ilap1036@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 

@@ -1,10 +1,9 @@
 <img src="https://64.media.tumblr.com/tumblr_mag654veLk1qk4bw7o1_500.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Igor Pedrosa 😁 <br />
+  Hello, my name is Igor Pedrosa 😁 Web Developer 💻 <br />
   Internet Computer Technician 🧑‍🎓<br />
   Bachelor's Degree in Software Engineering ⌛️<br />
-  Currently i'm working at <strong>Justa</strong> as <strong>FrontEnd Developer</strong>💻🎨 
 </p>
 
 <p align="left">
